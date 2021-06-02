@@ -4,7 +4,7 @@ $db = new database();
 ?>
 <h1>Data Kampus Unri</h1>
 <h2>Calon Mahahsiswa Unri 2021</h2>
-<h3>Nama saya Rivaldo Saya lagi mengerjakan Github</h3>
+<h3>Nama saya Rivaldo Saya sedang mengerjakan Github </h3>
 
 <a href="input.php">Input Data</a>
 <table border="1">
