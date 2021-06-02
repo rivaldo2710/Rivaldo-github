@@ -2,9 +2,9 @@
 include 'database.php';
 $db = new database();
 ?>
-<h1>CRUD OOP PHP</h1>
-<h2>WWW.MALASNGODING.COM</h2>
-<h3>Data User</h3>
+<h1>Data Kampus Unri</h1>
+<h2>Calon Mahahsiswa Unri 2021</h2>
+<h3>Nama saya Rivaldo Saya lagi mengerjakan Github</h3>
 
 <a href="input.php">Input Data</a>
 <table border="1">
