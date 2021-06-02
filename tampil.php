@@ -6,6 +6,7 @@ $db = new database();
 <h2>Calon Mahahsiswa Unri 2021</h2>
 <h3>Nama saya Rivaldo Saya sedang mengerjakan Github </h3>
 <h3>Ini Tambahan Branch 1</h3>
+<h3>Ini Di edit oleh DIDO</h3>
 
 <a href="input.php">Input Data</a>
 <table border="1">
